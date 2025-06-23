@@ -22,6 +22,9 @@ Hi, I'm Dylan — a software developer with an engineering background and a genu
 I love building websites that are fast, easy to use, and make people’s lives a little simpler. I mostly work with HTML, CSS, JavaScript and Ruby.
 
 📫 Find Me Around the Web
+
 📧 email
+
 🌍 Portfolio: Coming soon...
+
 💼 LinkedIn:
