@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hi, I'm Dylan — a software developer with an engineering background and a genuine love for turning complex problems into elegant code.
 
 🚀 What I Do
+
 I love building websites that are fast, easy to use, and make people’s lives a little simpler. I mostly work with HTML, CSS, JavaScript and Ruby.
 
 📫 Find Me Around the Web
