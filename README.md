@@ -36,6 +36,9 @@ Languages and Tools?
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
