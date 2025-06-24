@@ -27,7 +27,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 🌍 Portfolio: Coming soon...
 
-💼 LinkedIn:[My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
+💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
 Languages and Tools?
 
