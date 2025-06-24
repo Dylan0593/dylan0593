@@ -31,7 +31,8 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 Languages and Tools?
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png
+https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png
 
 
 
