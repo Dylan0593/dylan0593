@@ -31,8 +31,13 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 Languages and Tools?
 
-https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png
-https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
 
