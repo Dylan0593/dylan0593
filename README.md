@@ -21,10 +21,18 @@ Hi, I'm Dylan — a software developer with an engineering background and a genu
 
 I love building websites that are fast, easy to use, and make people’s lives a little simpler. I mostly work with HTML, CSS, JavaScript and Ruby.
 
-📫 Find Me Around the Web
+📫 Find Me Around the Web?
 
 📧 email: [My email](dakpan0593@gmail.com)
 
 🌍 Portfolio: Coming soon...
 
-💼 LinkedIn:
+💼 LinkedIn:[My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
+
+Languages and Tools?
+
+![image](https://github.com/user-attachments/assets/d7cb9e41-2077-44b7-8c2c-759bcbf7d181)
+
+
+
+
