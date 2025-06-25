@@ -23,7 +23,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 📫 Find Me Around the Web?
 
-📧 email: [My email](dakpan0593@gmail.com)
+📧 Email: [My Email](dakpan0593@gmail.com)
 
 🌍 Portfolio: Coming soon...
 
