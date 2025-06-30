@@ -25,7 +25,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 📧 Email: [My Email](dakpan0593@gmail.com)
 
-🌍 Portfolio: Coming soon...
+🌍 Portfolio: [My Portfolio](https://portfolio.dylan-akpan.me/))
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
