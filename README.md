@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm Dylan — a software developer with an engineering background and a genuine love for turning complex problems into elegant code.
 
-🚀 What I Do?
+🚀 __What I Do?__
 
 I love building websites that are fast, easy to use, and make people’s lives a little simpler. I mostly work with HTML, CSS, JavaScript and Ruby.
 
-📫 Find Me Around the Web?
+📫 __Find Me Around the Web?__
 
 📧 Email: [My Email](dakpan0593@gmail.com)
 
@@ -29,7 +29,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
-🧰 Languages and Tools?
+🧰 __Tech Stack?__
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
