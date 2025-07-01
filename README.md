@@ -29,7 +29,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
-Languages and Tools?
+🧰 Languages and Tools?
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
