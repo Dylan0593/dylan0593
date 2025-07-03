@@ -41,6 +41,7 @@ I love building websites that are fast, easy to use, and make people’s lives a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
 
 
