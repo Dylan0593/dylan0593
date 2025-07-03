@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan — a software developer with an engineering background and a genuine love for turning complex problems into elegant code.
+I'm Dylan, a software developer with an engineering background and a genuine love for turning complex problems into elegant code.
 
 🚀 __What I Do?__
 
